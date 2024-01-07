@@ -1,5 +1,5 @@
 alert("mulai ..");
-for (var i = 0; i < 10; i++) {
+for (var i = 0; i < 3; i++) {
   alert("hello world!");
 }
-alert("selesai");
+alert("selesai..");
